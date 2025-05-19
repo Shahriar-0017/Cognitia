@@ -1,4 +1,4 @@
-# Study Platform
+# Cognitia
 
 A comprehensive study platform with features for notes, contests, model tests, and more.
 
@@ -52,3 +52,4 @@ docker-compose down
 \`\`\`bash
 npm run build
 npm start
+\`\`\`
